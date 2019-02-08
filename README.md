@@ -1,9 +1,4 @@
 # Handwritten Digit Recognition using Machine Learning and Deep Learning
-
-## Published Paper 
-
-[IJARCET-VOL-6-ISSUE-7-990-997](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-6-ISSUE-7-990-997.pdf)
-
 # Requirements
 
 * Python 3.5 +
@@ -52,8 +47,6 @@ python3 knn.py
 ```
 
 This will run the code and all the print statements will be logged into the "summary.log" file.
-
-**NOTE: If you want to see the output to print on the Command prompt, just comment out line 16, 17, 18, 106 and 107 and hence you will get all the prints on the screen.**
 
 Alternatively, you can also use PyCharm to run the code and run the ".py" file in there.
 
@@ -117,14 +110,4 @@ iii) Random Forest Classifier:	96.82%
 i)	Three Layer Convolutional Neural Network using Tensorflow:	99.70%
 
 ii)	Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
-
-**All code written in Python 3.5. Code executed on Intel Xeon Processor / AWS EC2 Server.**
-
-## Video Link:
-```
-https://www.youtube.com/watch?v=7kpYpmw5FfE
-```
-
-## Test Images Classification Output:
-
-![Output a1](Outputs/output.png?raw=true "Output a1")       
+      
